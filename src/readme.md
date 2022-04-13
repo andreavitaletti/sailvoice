@@ -1,1 +1,1 @@
-A simple script that interact with the [NMEA Simulator](https://github.com/panaaj/nmeasimulator) via websocket. It get the NMEA sentences and by a simple TTS make a corresponding voice message 
+A simple script that interacts with the [NMEA Simulator](https://github.com/panaaj/nmeasimulator) via websocket. It gets the NMEA sentences and by a simple TTS make a corresponding voice message 
